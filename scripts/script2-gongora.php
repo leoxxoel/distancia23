@@ -3,7 +3,7 @@
  * Esta clase contiene funciones para realizar operaciones aritméticas básicas.
  *
  * @package Calculadora
- * @version 1.0
+ * @version 1.1
  * @author Profesorado
  */
 class Calculadora {
